@@ -1,5 +1,5 @@
 <div align="center">
-  <h3><em>"Per aspera ad astra"</em></h3>
+  <h3><em>Per aspera ad astra</em></h3>
 </div>
 
 # 💫 About Me:
