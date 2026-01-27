@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on the Stevens Advanced Quantum Materials Lab<br>
+🔭 I’m currently working on the Stevens Advanced Quantum Materials Lab & Hanlon Financial Systems Center<br>
 🌱 I’m currently learning and working on ML/DL and Web-Dev Projects!!<br>💬 I'm pretty open with everyone, don't hesitate to connect!!
 
 
