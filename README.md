@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-🔭 Previous Stevens Advanced Quantum Materials Lab Undergraduate Research Assistant <br>
+🔭 Stevens Advanced Quantum Materials Lab Undergraduate Research Assistant <br>
 🌱 I’m currently learning and working on ML/DL and Web-Dev Projects!!<br>💬 I'm pretty open with everyone, don't hesitate to connect!!
 
 
